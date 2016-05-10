@@ -1,0 +1,130 @@
+[
+    {
+        "q": "Is there any concern regarding the roadmap of Andromeda migration from the legacy platform which include massive business logic, rules frameworks, and other server side services?",
+        "to": "LT - Tech and LT - Product"
+    },
+    {
+        "q": "To LT- Tech : I don't have much interest in HTML,CSS. Keeping this in mind what is my future in this team.",
+        "to": "LT - Tech"
+    },
+    {
+        "q": "LT-Tech: Where each team is with the new technology stack. What are the current roadblocks? if any? Analytics? We don't have a view into what each team is doing. Already talked abt this with Renee (Bi-monthly Team meetings help). One common pulse site or some sort of slack channel on what products they are working on? Quick updates which are clear/concise. Not paragraphs from each team. ",
+        "to": "LT - Tech"
+    },
+    {
+        "q": "Steve/Vito are for enterprise only. How are the other LOB leads taking on the new capitalone.com? Did we think thru on giving each LOB to have their own customized global Nav/footer?. Wouldn't that confuse the overall experience for a customer who has multiple products (ex: Card card/bank acct). Any thoughts around adding Rewards/Travel on the main page. I remember i had mentioned rewards earlier in one of 15Fives. Having too many ads/promos (Amazon's Alexa and 5 unexpected ways credit card numbers can get stolen) on the main page is way too much info on a homepage. I should stop for now :-) ",
+        "to": "LT - All"
+    },
+    {
+        "q": "What will be considered as the next generation banking application? Say, something that will be norm in next 5 to 7 years. ",
+        "to": "LT - All"
+    },
+    {
+        "q": "Can we have more communication around vision and strategy? Like Rich Fairbank's strategy session, our town hall events would be a great platform for Tech & Product to share a comprehensive vision and strategy.",
+        "to": "LT - All"
+    },
+    {
+        "q": "Once the site moves to AWS will the Iron Throne be involved in any of the production support or will we be doing microservice support?  Is there a plan in place for Iron Throne once the current production model goes away?\n\n",
+        "to": "LT - Tech and LT - Product"
+    },
+    {
+        "q": "What would be our state by EOY (in terms of Andromeda taking over.)",
+        "to": "LT - Tech and LT - Product"
+    },
+    {
+        "q": "LT - Product: What is your vision for \"non LOB\" specific pages on capitalone.com",
+        "to": "LT - Product"
+    },
+    {
+        "q": "\n\nLT - Tech: What is your vision for the architecture of the site as a single entity that comprises of multiple LOB entities?",
+        "to": "LT - Tech"
+    },
+    {
+        "q": "Does technical leadership have a plan for enterprise capabilities, including segmentation, executing business rules, A/B testing, routing, auditing, etc.?  What is it?",
+        "to": "LT - Tech"
+    },
+    {
+        "q": "The apex of beer styles are generally considered to be lagers and ales. What is your favorite style or commercial example of a style? Mead is an acceptable answer and abstaining for dietary or personal reasons is also perfectly acceptable.\n\n\n\nhttp://ecx.images-amazon.com/images/I/81CFIrGYpzL._SL1500_.jpg",
+        "to": "LT - All"
+    },
+    {
+        "q": "I came over from the network team and currently I have support responsibilities across several Digital platforms, WWW, Mobile, Card. We had an issue with the failover of the Epiphany servers on Monday , early morning, and we set up a troubleshooting session on beginning at mid-night Tuesday Morning. We found that the network , specifically the BIGIP was functioning normally.  When all servers in the back end were taken down the LTM reported the issue to the GTM and the DNS resolved to the alternate datacenter as expected. The problem appears to be with the caching on the Tetris ( Source) servers. Once they were rebooted All things operated normally. We, Frank Lowe, Karthik Kesiraju and I, worked diligently to discover and test the issue. We provided configuration details , gathered from research from Java and Tomcat support sites, that would repair the current Issue.\n\nMy question is this: How can I give Credit to Frank and Karthik for a job well done as they are not assigned to our team?",
+        "to": "LT - All"
+    },
+    {
+        "q": "Are there any plans in future to redesign the capitalone.com site to take advantage of the javascript frameworks we are using after we are done replicating the existing design in new technology?",
+        "to": "LT - Tech and LT - Design"
+    },
+    {
+        "q": "I'd ask a question of Sandeep and Michi: Regarding our migration to \"Andromeda,\" what are your integration priorities? How can we align in Richmond and in Oakland? ",
+        "to": "Sandeep and Michi"
+    },
+    {
+        "q": "How do you feel that R&D fits into the grand scheme of work done at Capital One, and how can it be leveraged to help make Capital One a true technology company?",
+        "to": "LT - Tech and LT - Product"
+    },
+    {
+        "q": "With a lot of teams working on Angular pages right now, and the idea that we'll eventually be redoing that for Angular2, what is the plan of transition for this?  When will Angular2 codebase be ready to view so teams can begin incorporating that into their pages?",
+        "to": "LT - Tech"
+    },
+    {
+        "q": "When do we want work on the interaction model with our group and the rest of capitalone.com teams. Immediate value participation.. \n\n\n\nNegotiations/participation/influence with the Architecture team on the DNS model next gen arch and vendor. \n\n\n\nCost/Utilization analysis for capitalone.com utilization of amazon infrastructure\n\n\n\nManage negotiations with InfoSec on various risk issues while pushing the envelope and keeping capitalone.com secure",
+        "to": "LT - All"
+    },
+    {
+        "q": "Github is making life so much easier and I'm enjoying it but how are we to know when Andromeda packages or LOB-led packages are updated and when they are, what is responsible from us to update them?",
+        "to": "LT - Tech and LT - Product"
+    },
+    {
+        "q": "I keep hearing about Andromeda's road map and I've heard different things from different people. Is there a road map beyond what Angela has posted on Pulse and if so what is it?",
+        "to": "Sandeep and Michi"
+    },
+    {
+        "q": "For Tech: When is the move to Angular 2 going to happen and what can we expect for development? I understand how Angular 1 fit into the current capitalone.com platform with routing but I see a framework like Angular 2 much more built for pure app development, so I'm interested in where that will tie into the site. Will pages be giant components? Will we be doing server-side rendering? I'm very interested in Angular 2 so I'd like to see the plan for implementation.",
+        "to": "LT - Tech"
+    },
+    {
+        "q": "What does the IT leadership see as the limitations of the new platform? What does the product team see as the limitations of the new platform? ",
+        "to": "LT - Tech and LT - Product"
+    },
+    {
+        "q": "I'm very curious about how valuable our Site (formerly WWW) team in Richmond is to leadership. I know that is a wide-open question with likely different answers for each leader. Beyond just the challenges of geographical distance and infrequent face to face contact, it feels like it is hard to get a read on what leadership truly thinks about our teams. There have been some very public statements made about the weaknesses and shortcomings of the former platform, many of which are fair, but it has caused me to wonder if the leaders making these statements felt this way about the tools themselves or about the \"quality\" of the teams that helped develop the tools. \n\n\n\nI personally don't have any insecurity about the value of my team or the other teams here in Richmond; we have done some really significant work that over the years that has helped position our company as an industry leader in many areas (responsive, adaptive, accessibility, innovative multivariate testing, numerous massive redesign efforts, etc). I just wonder if (and hope that) the greater leadership team is able to see the great talent and potential here amidst the legitimate needs for our tooling to grow and evolve.",
+        "to": "LT - All"
+    },
+    {
+        "q": "What are the expected dates to have every team (or most) on the Andromeda platform by?",
+        "to": "LT - Tech and LT - Product"
+    },
+    {
+        "q": "Are we planning on converting anymore testers to be associates? Or are we only converting UIEs and Devs?",
+        "to": "LT - Tech and LT - Product"
+    },
+    {
+        "q": "What are the plans on implementing capitalone.com with 100% andromeda stack? What are the biggest challenges for us today?",
+        "to": "LT - Tech"
+    },
+    {
+        "q": "With reference to 'goal of becoming a leading software development company' : Something that I've been curious about whenever I come across articles on this topic either internally or public posts is - what kind of products or services is the organization planning to SELL in order to become a leading software development company? While existing products/services make it a financial institution, I wonder what's in store that can transform it into a software development company instead. :)\n\n\n\nP.S : Based on random small talk with colleagues/ex-colleagues/friends, it appears that there's this notion of how.. introducing the most advanced software technologies in our customer/user interaction process (website, mobile app, ATMs, IVR or other modes) may be viewed as becoming a \"tech\" company, but my perspective differed to some extent. While all that helps in becoming a better Bank, I couldn't see how that significantly affects the goal of becoming a leading 'software development' company. ",
+        "to": "LT - All"
+    },
+    {
+        "q": " What are your top (immediate/ needs to get done in the next month) priorities for Andromeda development?\n\n",
+        "to": "LT - Tech"
+    },
+    {
+        "q": "regarding \"a leading software development company\", are we going to sell software/services ? I thought we were a financial institute now and future.",
+        "to": "LT - All"
+    },
+    {
+        "q": "How do you see agile teams evolving as we move forward toward our goal of becoming a leading software development company?",
+        "to": "LT - All"
+    },
+    {
+        "q": "Have we finalized or published the pod level goals?",
+        "to": "LT - Tech"
+    },
+    {
+        "q": "Have we can product/design better communicate with the tech side of the house.  They seem to be at odds sometimes.  ",
+        "to": "LT - All"
+    }
+]
