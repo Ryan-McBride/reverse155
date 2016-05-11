@@ -14,7 +14,7 @@ $(document).ready(function(){
 
     do {
       var q = getRand();
-    } while ($.inArray(q.q, asked) !== -1);
+    } while ($.inArray(q.q, asked) !== -1 || asked.length !== questions.length);
 
     asked.push(q.q);
     $('#main').text(q.q);
