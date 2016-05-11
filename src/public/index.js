@@ -1,5 +1,6 @@
 $(document).ready(function(){
   var questions = [];
+  var asked = [];
   var audio = new Audio('/public/ex.mp3');
   $.ajax({
     url: '/public/questions.json'
@@ -10,8 +11,17 @@ $(document).ready(function(){
 
   $('#button').on('click', function(){
     audio.play();
-    var rand= Math.floor(Math.random()*questions.length);
-    $('#main').text(questions[rand].q);
-    $('#to').text(questions[rand].to + ':');
+
+    do {
+      var q = getRand();
+    } while ($.inArray(q.q, asked) !== -1);
+
+    asked.push(q.q);
+    $('#main').text(q.q);
+    $('#to').text(q.to + ':');
   });
+
+  function getRand(){
+    return questions[Math.floor(Math.random()*questions.length)];
+  }
 });
