@@ -10,15 +10,16 @@ $(document).ready(function(){
   })
 
   $('#button').on('click', function(){
-    audio.play();
+    if(questions.length !== asked.length){
+      do {
+        var q = getRand();
+      } while ($.inArray(q.q, asked) !== -1);
 
-    do {
-      var q = getRand();
-    } while ($.inArray(q.q, asked) !== -1 || asked.length !== questions.length);
-
-    asked.push(q.q);
-    $('#main').text(q.q);
-    $('#to').text(q.to + ':');
+      audio.play();
+      asked.push(q.q);
+      $('#main').text(q.q);
+      $('#to').text(q.to + ':');
+    }
   });
 
   function getRand(){
