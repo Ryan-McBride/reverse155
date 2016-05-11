@@ -23,7 +23,7 @@ body {
 }
 
 #to{
-  color: #321456;
+  color: black;
 }
 
 footer{
@@ -45,11 +45,11 @@ footer{
 }
 
 #button:hover{
-  background-color: #6C4E90;
+  background-color: #FFC542;
 }
 
 #button:active{
-  background-color: #1D053A;
+  background-color: #FF9632;
 }
 
 .padding{
