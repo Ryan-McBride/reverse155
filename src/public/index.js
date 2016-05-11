@@ -12,6 +12,6 @@ $(document).ready(function(){
     audio.play();
     var rand= Math.floor(Math.random()*questions.length);
     $('#main').text(questions[rand].q);
-    $('#to').text(questions[rand].to);
+    $('#to').text(questions[rand].to + ':');
   });
 });
