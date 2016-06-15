@@ -8,15 +8,7 @@
         "to": "LT - Tech"
     },
     {
-        "q": "We don't have a view into what each team is doing. Where is each team with the new technology stack? What are the current roadblocks? if any? Analytics? Looking for quick updates which are clear/concise. Not paragraphs from each team. ",
-        "to": "LT - Tech"
-    },
-    {
         "q": "Steve/Vito are for enterprise only. How are the other LOB leads taking on the new capitalone.com?",
-        "to": "LT - All"
-    },
-    {
-        "q": "Did we think through on giving each LOB to have their own customized global Nav/footer?. Wouldn't that confuse the overall experience for a customer who has multiple products (ex: Card card/bank acct)?",
         "to": "LT - All"
     },
     {
@@ -80,10 +72,6 @@
         "to": "LT - Tech and LT - Product"
     },
     {
-        "q": "I keep hearing about Andromeda's road map and I've heard different things from different people. Is there a road map beyond what Angela has posted on Pulse and if so what is it?",
-        "to": "Sandeep and Michi"
-    },
-    {
         "q": "When is the move to Angular 2 going to happen and what can we expect for development? I understand how Angular 1 fit into the current capitalone.com platform with routing but I see a framework like Angular 2 much more built for pure app development, so I'm interested in where that will tie into the site. Will pages be giant components? Will we be doing server-side rendering?",
         "to": "LT - Tech"
     },
@@ -101,10 +89,6 @@
     },
     {
         "q": "What are the plans on implementing capitalone.com with 100% andromeda stack? What are the biggest challenges for us today?",
-        "to": "LT - Tech"
-    },
-    {
-        "q": "What are your top (immediate/ needs to get done in the next month) priorities for Andromeda development?",
         "to": "LT - Tech"
     },
     {
